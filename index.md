@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Home Test
+product: SmartDocs 2018.2
 ---
-
 # SmartDocs SharePoint Configuration Guide
 
 The purpose of this guide is to help you create and configure SmartDocs repositories on your SharePoint server. This guide covers the following topics:
@@ -14,7 +14,7 @@ The purpose of this guide is to help you create and configure SmartDocs reposito
 
 ## SharePoint Requirements
 
-SmartDocs 2018.1 supports all editions of SharePoint 2007, SharePoint 2010, SharePoint 2013, SharePoint 2016, and SharePoint 2019. SmartDocs 2018.1 also provides full support for Microsoft's cloud-based Office 365 (SharePoint Online) hosting environment.
+{{ page.product }} supports all editions of SharePoint 2007, SharePoint 2010, SharePoint 2013, SharePoint 2016, and SharePoint 2019. {{ page.product }} also provides full support for Microsoft's cloud-based Office 365 (SharePoint Online) hosting environment.
 
 ## SharePoint Knowledge
 
