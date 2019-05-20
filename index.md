@@ -5,7 +5,7 @@ product: SmartDocs 2018.2
 ---
 # SmartDocs SharePoint Configuration Guide
 
-The purpose of this guide is to help you create and configure SmartDocs repositories on your SharePoint server. This guide covers the following topics:
+TEST TEST TEST The purpose of this guide is to help you create and configure SmartDocs repositories on your SharePoint server. This guide covers the following topics:
 
 * What a SmartDocs repository is
 * How to organize your SmartDocs repositories within your SharePoint site structure
