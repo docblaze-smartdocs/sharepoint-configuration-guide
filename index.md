@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home Test
+---
+
 # SmartDocs SharePoint Configuration Guide
 
 The purpose of this guide is to help you create and configure SmartDocs repositories on your SharePoint server. This guide covers the following topics:
