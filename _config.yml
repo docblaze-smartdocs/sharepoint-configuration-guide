@@ -1,5 +1,8 @@
 plugins:
   - jekyll-relative-links
+  
+remote_theme: docblaze-theme/default
+  
 relative_links:
   enabled: true
   collections: true
