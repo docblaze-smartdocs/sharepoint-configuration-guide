@@ -1,5 +1,15 @@
+# Set plugins
 plugins:
-  - jekyll-relative-links
+- jekyll-relative-links
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
   
 remote_theme: docblaze-theme/default
   
