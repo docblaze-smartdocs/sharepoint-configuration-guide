@@ -3,7 +3,7 @@ layout: default
 title: Home Test
 product: SmartDocs 2018.2
 ---
-# XYZ ABC SmartDocs SharePoint Configuration Guide
+# qqqqqqq SmartDocs SharePoint Configuration Guide
 
 The purpose of this guide is to help you create and configure SmartDocs repositories on your SharePoint server. This guide covers the following topics:
 
